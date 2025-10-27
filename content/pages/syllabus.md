@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, requirements, plagiarism policy, and the schedule of course topics.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -36,7 +34,7 @@ Finally, there will be one 20-page essay, a portion of which you will write and 
 Plagiarism
 ----------
 
-Plagiarism - use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available in the [Writing and Communication Center](http://web.mit.edu/writing/Center/).
+Plagiarism - use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available in the {{% resource_link "2df6663c-ae1e-4378-a17b-9d5a0238af62" "Writing and Communication Center" %}}.
 
 {{< anchor "calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
