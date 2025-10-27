@@ -171,7 +171,7 @@ Thomas Love Peacock and P. B. Shelley
 
 Peacock, Thomas Love. "The Four Ages of Poetry."  In *Prose of the British Romantic Movement*.  Edited by John R. Nabholtz.  New York, NY: Macmillan, 1974, pp. 655-661.  ISBN: 0023858400.
 
-Shelley, Percy Bysshe. "[Defence of Poetry](http://www.fordham.edu/halsall/mod/shelley-poetry.html)," and "[Ode to the West Wind](http://www.poets.org/viewmedia.php/prmMID/15693)."
+Shelley, Percy Bysshe. "{{% resource_link "d3e78c86-5203-4161-bc14-157960631326" "Defence of Poetry" %}}," and "{{% resource_link "80fefbdb-897d-4c98-a6fd-12fd01045474" "Ode to the West Wind" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
